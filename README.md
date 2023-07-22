@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **MERN Stack Development**
 
-💬 Ask me about **HTML,CSS And Bootstrap**
+💬 Ask me about **HTML, CSS And Bootstrap**
 
 📫 How to reach me **anisham0219@gmail.com**
 
