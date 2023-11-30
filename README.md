@@ -8,7 +8,7 @@
 
 🌱 I’m currently pursuing **Full Stack Development course** at **Talent Battle**
 
-💬 Ask me about **HTML, CSS, JavaScript, React Js***
+💬 Ask me about **HTML, CSS, JavaScript, React Js, Angular Js, Node Js***
 
 📫 How to reach me **anisham0219@gmail.com**
 
