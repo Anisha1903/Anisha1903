@@ -27,16 +27,11 @@
 # <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
 
 <div style="display: flex; align-items: flex-start; align: center">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java">
-    <br>Java    
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python">
-    <br>Python
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-    <br>HTML5
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-    <br>CSS
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="css" />
-    <br>Boostrap
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java">Java    
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python">Python
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />HTML5
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />CSS
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="css" />Boostrap
 </div>
 <div style="display: flex; align-items: flex-start; align: center">
     <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
