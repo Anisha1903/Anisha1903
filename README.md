@@ -25,47 +25,9 @@
 <br /> <br />
 
 # <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
-[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jquery,react,angularjs,nodejs,expressjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
-<div style="display: flex; align-items: flex-start; align: center">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java">   
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="css" />
-</div>
-<div style="display: flex; align-items: flex-start; align: center">
-    <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-    <br>JavaScript
-    <img src="https://skillicons.dev/icons?i=jQuery" width="48" height="48" alt="javascript" />
-    <br>jQuery
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
-    <br>React.js
-    <img src="https://skillicons.dev/icons?i=angularjs" width="48" height="48" alt="nodejs" />
-    <br>AngularJS
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-    <br>NodeJS
-</div>
-<div style="display: flex; align-items: flex-start; align: center">          
-    <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="nodejs" />
-    <br>ExpressJS
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="tailwind" />
-    <br>MongoDB
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="sql" />
-    <br>MySQL
-    <img src="https://skillicons.dev/icons?i=machine" width="48" height="48" alt="linux" />
-    <br>Machine Learning
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
-    <br>Linux
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="linux" />
-    <br>Git
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,jquery,react,angularjs,nodejs,expressjs,mongodb,mysql,git,linux)](https://skillicons.dev)
 
 # <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="35px"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anisha1903&show_icons=true&locale=en&layout=compact" alt="Anisha1903" /></p>
 
