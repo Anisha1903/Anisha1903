@@ -30,9 +30,6 @@
     </a> 
 </div>
 
-![MasterHead](https://www.themoontechnologies.com/images/banner-bg.gif)
-<br /> <br />
-
 # <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
 
 <div align="center" style="display: flex; align-items: flex-start;">
