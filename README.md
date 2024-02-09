@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Anisha1903</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
@@ -6,7 +5,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
-🌱 I’m currently pursuing **Full Stack Development course** at **Talent Battle**
+🌱 I Reacently Completed **Full Stack Development course** at **Talent Battle**
 
 💬 Ask me about **HTML, CSS, JavaScript, React Js, Angular Js, Node Js***
 
@@ -14,11 +13,22 @@
 
 ⚡ Fun fact **I'm a coffee enthusiast ☕, and I believe it's the secret to my coding superpowers.**
 
+# Lets Connect 🌐 
 
-# <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="35px"> 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__anisha__19?igshid=MzNlNGNkZWQ4Mg==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisha-m-10b620236)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anisha.m.16547?mibextid=ZbWKwL)
+<div align="center"> 
+    <a href="mailto:anisham0219@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/anisha-m-10b620236" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://65c4f6259a41ac2205033ba7--singular-snickerdoodle-1fe75e.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.instagram.com/__anisha__19" target="_blank">
+        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    </a> 
+</div>
 <br /> <br />
 
 ![MasterHead](https://www.themoontechnologies.com/images/banner-bg.gif)
