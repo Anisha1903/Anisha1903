@@ -15,10 +15,7 @@
 
 # <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="35px"> 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
 
-<div align="center"> 
-    <a href="mailto:anisham0219@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
+<div align="center">
     <a href="https://www.linkedin.com/in/anisha-m-10b620236" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
