@@ -36,7 +36,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![EXPRESS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=express&logoColor=black)
+![EXPRESS](https://img.shields.io/badge/Express-FCC624?style=for-the-badge&logo=express&logoColor=black)
 
 # <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="35px"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
 
