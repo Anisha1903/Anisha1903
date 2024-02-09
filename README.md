@@ -13,7 +13,7 @@
 
 ⚡ Fun fact **I'm a coffee enthusiast ☕, and I believe it's the secret to my coding superpowers.**
 
-# Lets Connect 🌐 
+# <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="35px"> 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
 
 <div align="center"> 
     <a href="mailto:anisham0219@gmail.com">
@@ -33,8 +33,7 @@
 ![MasterHead](https://www.themoontechnologies.com/images/banner-bg.gif)
 <br /> <br />
 
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+# <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
 
 <div align="center" style="display: flex; align-items: flex-start;">
     <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,javascript,typescript,jquery,react,angular"><br>
