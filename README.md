@@ -27,7 +27,7 @@
 # <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,jquery,react,angularjs" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,jquery,react,angularjs" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,linux" /><br>
 </div>
 
