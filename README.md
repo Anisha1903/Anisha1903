@@ -5,7 +5,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
-🌱 I Reacently Completed **Full Stack Development course** at **Talent Battle**
+🌱 I Recently Completed **Full Stack Development course** at **Talent Battle**
 
 💬 Ask me about **HTML, CSS, JavaScript, React Js, Angular Js, Node Js***
 
