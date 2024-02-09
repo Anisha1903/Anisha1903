@@ -25,18 +25,81 @@
 <br /> <br />
 
 # <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JQUERY](https://img.shields.io/badge/jquery-%23f1f1f1.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![EXPRESS](https://img.shields.io/badge/Express-FCC624?style=for-the-badge&logo=express&logoColor=black)
+<table align="center"><tr><td align="top" width="33%">
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="85">
+                <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java">
+                <br>Java
+            </td>
+            <td align="center" width="85">
+                <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python">
+                <br>Python
+            </td>
+            <td align="center"  width="85">
+                 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+                <br>HTML5
+            </td>
+            <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+                <br>CSS
+            </td>
+             <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="css" />
+                <br>Boostrap
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=jQuery" width="48" height="48" alt="javascript" />
+                <br>jQuery
+            </td>
+            <td align="center" width="85">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
+                <br>React.js
+            </td>
+             <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=angularjs" width="48" height="48" alt="nodejs" />
+                <br>AngularJS
+            </td>
+            <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+                <br>NodeJS
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="nodejs" />
+                <br>ExpressJS
+            </td>
+            <td align="center" width="85">
+                 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="tailwind" />
+                <br>MongoDB
+            </td>
+            <td align="center" width="85">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="sql" />
+                <br>MySQL
+            </td>
+            <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=machinelearning" width="48" height="48" alt="linux" />
+                <br>Machine Learning
+            </td>
+            <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+                <br>Linux
+            </td>
+            <td align="center" width="85">
+                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="linux" />
+                <br>Git
+            </td>
+        </tr>
+    </table>
+</div>
 
 # <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="35px"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
 
