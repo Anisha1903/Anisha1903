@@ -25,7 +25,11 @@
 <br /> <br />
 
 # <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,jquery,react,angularjs,nodejs,expressjs,mongodb,mysql,git,linux)](https://skillicons.dev)
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,jquery,react,angularjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,linux" /><br>
+</div>
 
 # <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="35px"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
 
