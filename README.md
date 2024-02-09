@@ -25,80 +25,23 @@
 <br /> <br />
 
 # <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
-<table align="center"><tr><td align="top" width="33%">
-<div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
-        <tr>
-            <td align="center" width="85">
-                <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java">
-                <br>Java
-            </td>
-            <td align="center" width="85">
-                <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="python">
-                <br>Python
-            </td>
-            <td align="center"  width="85">
-                 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-                <br>HTML5
-            </td>
-            <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-                <br>CSS
-            </td>
-             <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="css" />
-                <br>Boostrap
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-                <br>JavaScript
-            </td>
-            <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=jQuery" width="48" height="48" alt="javascript" />
-                <br>jQuery
-            </td>
-            <td align="center" width="85">
-                <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
-                <br>React.js
-            </td>
-             <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=angularjs" width="48" height="48" alt="nodejs" />
-                <br>AngularJS
-            </td>
-            <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-                <br>NodeJS
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="nodejs" />
-                <br>ExpressJS
-            </td>
-            <td align="center" width="85">
-                 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="tailwind" />
-                <br>MongoDB
-            </td>
-            <td align="center" width="85">
-                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="sql" />
-                <br>MySQL
-            </td>
-            <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=machinelearning" width="48" height="48" alt="linux" />
-                <br>Machine Learning
-            </td>
-            <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
-                <br>Linux
-            </td>
-            <td align="center" width="85">
-                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="linux" />
-                <br>Git
-            </td>
-        </tr>
-    </table>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/reactjs/reactjs-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/expressjs/expressjs-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/machinelearning/machinelearning-original-wordmark.svg" title="Machine Learning"  alt="Machine Learning" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original-wordmark.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
 # <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="35px"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
