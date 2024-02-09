@@ -29,12 +29,12 @@
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a> 
 </div>
-<br />
 
 ![MasterHead](https://www.themoontechnologies.com/images/banner-bg.gif)
 <br /> <br />
 
-# <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
 <div align="center" style="display: flex; align-items: flex-start;">
     <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,javascript,typescript,jquery,react,angular"><br>
