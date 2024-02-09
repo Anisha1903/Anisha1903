@@ -33,7 +33,7 @@
 ![MasterHead](https://www.themoontechnologies.com/images/banner-bg.gif)
 <br /> <br />
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
 <div align="center" style="display: flex; align-items: flex-start;">
