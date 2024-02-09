@@ -29,7 +29,7 @@
 <div align="center" style="display: flex; align-items: flex-start;">
     <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,javascript,typescript,jquery,react,angular"><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,git,linux"><br>
-    <img src="https://skillicons.dev/icons?i=vscode,firebase,github" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,firebase,github,anaconda" /><br>
 </div>
 
 # <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="35px"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
