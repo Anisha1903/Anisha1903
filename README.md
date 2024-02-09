@@ -27,8 +27,8 @@
 # <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="35px"> 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,js,jquery,react,angularjs" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,javascript,typescript,jquery,react,angularjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,machinelearning,git,linux,vscode" /><br>
 </div>
 
 # <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="35px"> 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
