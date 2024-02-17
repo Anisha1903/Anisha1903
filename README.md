@@ -22,7 +22,7 @@
     <a href="https://www.instagram.com/__anisha__19" target="_blank">
         <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a> 
-    <a href="https://65c4f6259a41ac2205033ba7--singular-snickerdoodle-1fe75e.netlify.app/" target="_blank">
+    <a href="https://65d056678057b950108de578--stalwart-rugelach-0ed205.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
 </div>
